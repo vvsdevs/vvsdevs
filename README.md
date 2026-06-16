@@ -1,6 +1,24 @@
 <!-- ====== ANIMATED HEADER BANNER ====== -->
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Venky%20%7C%20vvsdevs&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Senior%20Android%20Developer&descSize=20&descAlignY=58" width="100%"/>
+
+<a href="https://github.com/vvsdevs">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=1F6FEB&center=true&vCenter=true&width=600&lines=Senior+Android+Developer;Kotlin+%E2%80%A2+Jetpack+Compose;Server-Side+Driven+UI+Enthusiast;Open+Source+Library+Author" alt="Typing SVG" />
+</a>
+
+<p>
+  <a href="https://www.linkedin.com/in/itsmevenkatadri/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=vvsdevs&style=for-the-badge&color=1F6FEB&label=Profile+Views" alt="Profile views"/>
+</p>
+
+</div>
+
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,12,24&height=260&section=header&text=Hi,%20I'm%20Venky%20👋&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Senior%20Android%20Developer%20%E2%80%A2%20Kotlin%20%E2%80%A2%20Jetpack%20Compose&descSize=18&descAlignY=58" width="100%"/>
 
 <!-- ====== NEON TYPING TAGLINE ====== -->
